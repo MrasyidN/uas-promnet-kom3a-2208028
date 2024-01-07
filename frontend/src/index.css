@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #df9a9a;
+  color: #333;
+}
+
+code {
+  font-family: 'Courier New', monospace;
+  color: rgb(248, 131, 121);
+}
